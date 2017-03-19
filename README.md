@@ -1,4 +1,6 @@
 # homework2
+Nat Nunpanichphong
+5680477
 
 > A Vue.js project
 
